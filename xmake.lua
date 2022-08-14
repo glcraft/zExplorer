@@ -7,4 +7,4 @@ add_requires("tl_expected")
 
 llvm_toolchain("LLVM15.0.0", "macosx")
 
-includes("qtapp", "consoleapp", "zfiles")
+includes("qtapp", "glap", "consoleapp", "zfiles")

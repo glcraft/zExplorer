@@ -1,0 +1,3 @@
+[submodule "glap"]
+	path = glap
+	url = git@github.com:glcraft/glap.git
